@@ -1,4 +1,10 @@
 #include <stdio.h>
+/*
+**    Função : Fatorial Duplo
+**    Autor : Anne Xavier
+**    Data  : 23/03/24
+**    Observações: Tabela demonstrativa de fatorial duplo, fatorial normal e a diferença dos dois
+*/
 
 int fatorial_duplo(int n) {
     if (n == 0 || n == 1) {
